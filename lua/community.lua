@@ -9,6 +9,7 @@ return {
   { import = "astrocommunity.recipes.ai" },
   { import = "astrocommunity.recipes.neovide" },
   { import = "astrocommunity.recipes.picker-nvchad-theme" },
+  { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
   -- import/override with your plugins folder
   { import = "astrocommunity.colorscheme.dracula-nvim" },
   { import = "astrocommunity.pack.rust" },
