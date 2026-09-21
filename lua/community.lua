@@ -8,6 +8,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.recipes.ai" },
   { import = "astrocommunity.recipes.neovide" },
+  { import = "astrocommunity.recipes.picker-nvchad-theme" },
   -- import/override with your plugins folder
   { import = "astrocommunity.colorscheme.dracula-nvim" },
   { import = "astrocommunity.pack.rust" },
